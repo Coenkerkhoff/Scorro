@@ -26,15 +26,13 @@ Mannen 25–55, Den Bosch e.o. (Vught, Rosmalen), ondernemer of manager, inkomen
 ## Persona (gemaakt)
 Mark de Vries (fictief), 44, eigenaar-directeur, getrouwd, 2 kinderen, Vught. Bestand: `Persona_canvas_ingevuld.pptx` (dia 2 = onderbouwing per R-nummer).
 
-## Actieplan volgend blok (uit logboek H8)
+## Actieplan volgend blok (actuele versie, uit Coens CGI-presentatie)
 Doel: Double F heeft zijn duidelijke doelgroep gevonden en zijn eerste mogelijke klanten.
-- Week 1: Instagram-naam vastleggen → account aangemaakt
-- Week 2: Prijzen vastleggen → prijslijst klaar
-- Week 3: Proefsessies bedenken (kastcheck) → uitgewerkt idee voor proefsessie
-- Week 4: Website-concept opstellen → concept tonen
-- Week 4–8: Instagram actief laten groeien → volgers verhogen
-- Week 5: Afspraken met winkels → min. 2 winkels waar Coen met klanten terecht kan
-- Week 6–8: Eerste mogelijke klanten vastleggen → klantencontact laten zien
+- Week 1–2: Instagram-naam vastleggen, prijslijst klaar
+- Week 3–4: Proefsessie (kastcheck) uitwerken, website-concept
+- Week 5: Minimaal 2 winkels waar ik met vragen terecht kan, en later eventueel met klanten
+- Week 6–8: Eerste mogelijke klanten vastleggen, Instagram laten groeien
+(Oudere versie in logboek H8 had losse weken 1–8; bovenstaande is leidend.)
 
 ## Persoonlijk (portfolio)
 Kernkwaliteiten: zelfverzekerdheid (valkuil egoïsme, uitdaging bescheidenheid) en doorzettingsvermogen (valkuil koppigheid, uitdaging flexibiliteit). Ontwikkelpunt: luisteren naar feedback/anderen, flexibiliteit.
