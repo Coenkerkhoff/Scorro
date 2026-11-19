@@ -50,4 +50,5 @@ Het portfolio staat in de root: `Portfolio Ondernemer 2026 - Copy.docx`.
 - Actieplan: Instagram-account, prijslijst, proefsessies (kastcheck), websiteconcept, afspraken met minimaal 2 winkels, eerste klanten.
 
 ## Afspraken over werkwijze
-- Als Claude tekst invult in Coens Word-documenten: zet die tekst in **gele letterkleur** (FFFF00), zodat Coen hem zelf kan nalezen en naar de juiste kleur kan omzetten.
+- Als Claude tekst invult in Coens Word-documenten: gebruik de **automatische tekstkleur** (zwart op wit, wit in de donkere modus van Word), dus geen gele of andere afwijkende kleur.
+- Gebruik **geen tekstvakken**: Coen kan die niet goed bewerken. Zet ingevulde tekst als gewone alinea's (eventueel in een tabel) in het document.
